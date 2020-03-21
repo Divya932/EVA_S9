@@ -7,8 +7,7 @@ augmentation techniques like cutout so that other areas of the object are also g
 while predicting the labels. 
 
 
-![GitHub Logo](/predicted.png)
-![GitHub Logo](/gradCAM_cat.png)
+![GitHub Logo](/predicted.png)(/gradCAM_cat.png)
 The original label here was cat.
 The model however predicted it as a frog based on incomplete visualisations as shown by the heat mappings.
 
